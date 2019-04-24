@@ -27,7 +27,7 @@ const STANDARD_BABEL_CONFIG = {
     '@babel/plugin-proposal-numeric-separator',
     '@babel/plugin-proposal-throw-expressions',
     // Stage 3
-    '@babel/plugin-syntax-dynamic-import',
+    'babel-plugin-dynamic-import-node-babel-7',
     '@babel/plugin-syntax-import-meta',
     ['@babel/plugin-proposal-class-properties', { loose: false }],
     '@babel/plugin-proposal-json-strings'
